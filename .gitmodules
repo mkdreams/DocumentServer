@@ -1,6 +1,6 @@
 [submodule "sdkjs"]
 	path = sdkjs
-	url = https://github.com/ONLYOFFICE/sdkjs.git
+	url = https://github.com/mkdreams/sdkjs.git
 [submodule "core"]
 	path = core
 	url = https://github.com/ONLYOFFICE/core.git
@@ -18,4 +18,4 @@
 	url = https://github.com/ONLYOFFICE/core-fonts.git
 [submodule "web-apps"]
 	path = web-apps
-	url = https://github.com/ONLYOFFICE/web-apps.git
+	url = https://github.com/mkdreams/web-apps.git
